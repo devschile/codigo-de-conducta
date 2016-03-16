@@ -4,7 +4,7 @@
 
 ---
 
-**[Descarga / Imprime en PDF este Documento](https://gitprint.com/devschile/codigo-de-conducta)**
+**[Descarga este documento en PDF](https://gitprint.com/devschile/codigo-de-conducta)**
 
 ### TL;DR
 
@@ -14,7 +14,7 @@
 
 ### Propósito:
 
-Uno de los objetivos principales de [DevsChile](http://www.devschile.cl/) es ser una comunidad inclusiva para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
+Uno de los objetivos principales de [DevsChile](http://www.devschile.cl/) es **ser una comunidad inclusiva** para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
 
 Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
 
@@ -47,9 +47,9 @@ todos los participantes a que contribuyan en la mayor medida.
 
 ### Comportamiento inaceptable
 
-Comportamientos inaceptables incluyen: **intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante y acciones por cualquier participante en nuestra comunidad ya sea en Internet, en todos los eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los principios de la comunidad. Es posible que los lugares para eventos comunitarios sean de uso compartido con los miembros del público; por favor, ser respetuoso con todos aquellos que los frecuentan.
+Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante y acciones por cualquier participante en nuestra comunidad ya sea en Internet, en todos los eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los principios de la comunidad. Es posible que los lugares para eventos comunitarios sean de uso compartido con los miembros del público; por favor, ser respetuoso con todos aquellos que los frecuentan.
 
-El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relacionados con el género, la orientación sexual, raza, religión, discapacidad; uso inadecuado de desnudos y / o imágenes sexuales en espacios públicos (incluyendo la presentación de diapositivas); intimidación deliberada, acecho o seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado, y atención sexual no deseada.
+El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relacionados con el género, la orientación sexual, raza, religión, discapacidad; uso inadecuado de desnudos y/o imágenes sexuales en espacios públicos (incluyendo la presentación de diapositivas); intimidación deliberada, acecho o seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado, y atención sexual no deseada.
 
 
 ### Consecuencias de comportamiento inaceptable
@@ -65,8 +65,8 @@ Si un miembro de la comunidad participa en una conducta inaceptable, los organiz
 
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un administrador de la comunidad lo antes posible.
 
-Email: [huemul@devschile.cl](mailto:huemul@devschile.cl)
-Twitter: [@devschile](http://twitter.com/DevsChile)
+* Email: [huemul@devschile.cl](mailto:huemul@devschile.cl)
+* Twitter: [@devschile](http://twitter.com/DevsChile)
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que las víctimas de comportamiento inaceptable se sientan seguros.
 
