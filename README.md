@@ -2,13 +2,15 @@
 
 ## [DevsChile](http://www.devschile.cl/) - Grupo de Slack para Desarrolladores en Chile
 
+---
 
-### tl;dr
+**[Descarga / Imprime en PDF este Documento](https://gitprint.com/devschile/codigo-de-conducta)**
+
+### TL;DR
 
 - No sea estúpido.
 - Si es estúpido, intente no serlo.
 - Si es estúpido o hace estupideces, retírese por las suyas. Sino, será retirado irrevocablemente.
-
 
 ### Propósito:
 
