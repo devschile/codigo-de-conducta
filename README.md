@@ -31,8 +31,8 @@ Las comunidades reflejan las sociedades en las que existen y la acción positiva
 es fundamental para contrarrestar las muchas formas de desigualdad y los abusos
 de poder que existen en la sociedad.
 
-Si ves a alguien que está haciendo un esfuerzo adicional y significativo para
-asegurar que nuestra comunidad sea acogedora, amable, y esta persona alienta a
+Intenta ser alguien que esté haciendo un esfuerzo adicional y significativo para
+asegurar que nuestra comunidad sea acogedora, amable, y aliente a
 todos los participantes a que contribuyan en la mayor medida.
 
 
