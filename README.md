@@ -7,7 +7,7 @@
 
 - No sea estúpido
 - Si es estúpido, intente no serlo
-- Si es estúpido u hace estupideces, retírese por las suyas. Sino será retirado irrevocablemente.
+- Si es estúpido o hace estupideces, retírese por las suyas. Sino será retirado irrevocablemente.
 
 
 ### Propósito:
